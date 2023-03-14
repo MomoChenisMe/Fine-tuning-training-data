@@ -1,0 +1,1 @@
+This is a set of mock training data for fine-tuning OpenAI models, consisting entirely of randomly generated Chinese text by ChatGPT. 
